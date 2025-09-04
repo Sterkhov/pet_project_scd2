@@ -125,3 +125,4 @@ while True:
         add_new_user()
     else:
         update_info_about_current_user()
+    time.sleep(5)
